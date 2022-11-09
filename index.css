@@ -10,7 +10,12 @@ body {
 .container {
     background: hsla(235 20% 70% / 1);
     padding: 1em;
-        
+    margin: auto;
+    margin-top: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 h1 {
