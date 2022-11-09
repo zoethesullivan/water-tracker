@@ -15,25 +15,25 @@ body {
 
 h1 {
     font-size: 2rem;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: .5em;
+    margin-bottom: .5em;
 }
 
 h2 {
     font-size: 2rem;
     margin-top: 0;
-    margin-bottom: 20px;
+    margin-bottom: 1em;
 }
 
 button {
     border: none;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: .5em;
+    padding-bottom: .5em;
     background: #ffffff;
     color: hsla(235 100% 50% / 1);
     font-weight: bold;
-    width: 200px;
-    margin-bottom: 5px;
-    border-radius: 5px;
+    width: 2em;
+    margin-bottom: .5em;
+    border-radius: .5em;
     border: thick double #32a1ce;
 }
