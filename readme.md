@@ -7,12 +7,12 @@ By Zoe Sullivan
 
 ## Description
 
-I'm Thirsty tracks water intake by logging each glass on an increment counter. If prompted, the counter will save the current totaled imput. 
+I'm Thirsty tracks water intake by logging each glass on an increment counter. If prompted, the counter will save the current totaled imput.
 
 REPO NICKNAME - Water Tracker
 REPO URL - Netlify TBD
 
-## Technologies Used
+### Technologies Used
 
 JavaScript
 HTML/CSS
