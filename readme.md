@@ -10,13 +10,17 @@ Application **I'm Thirsty** tracks water intake by logging each glass on an incr
 
 REPO NICKNAME - Water Tracker
 
-REPO URL - Netlify TBD
+REPO URL - https://illustrious-brioche-8dff77.netlify.app/
 
 ## Technologies Used
 
 - JavaScript
-
 - HTML/CSS
+
+## Known Bugs
+
+- Text overflows from button elements
+- Not optomized for desktop usage
 
 ## License
 
