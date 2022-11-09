@@ -32,7 +32,6 @@ button {
     background: #ffffff;
     color: hsla(235 100% 50% / 1);
     font-weight: bold;
-    width: 2em;
     margin-bottom: .5em;
     border-radius: .5em;
     border: thick double #32a1ce;
